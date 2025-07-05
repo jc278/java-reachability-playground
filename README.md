@@ -38,4 +38,4 @@ to next java run.*
 ![Snyk CLI Reachable Vulnerabilities](CLI_reachable.png)
 
 ### Snyk UI
-![Snyk UI Reachable Vulnerabilities](UI_reachable.png)
+![Snyk UI Reachable Vulnerabilities](UI_reachable.png) 
